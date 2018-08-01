@@ -11,7 +11,7 @@ class Positive
 		{
 			System.out.println("Positive");
 		}
-		else
+		else if(s<=0)
 		{
 			System.out.println("Zero");
 		}
