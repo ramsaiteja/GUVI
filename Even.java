@@ -11,7 +11,7 @@ class Even
 		{
 			System.out.println("Even");
 		}
-		else if(s%2!=0)
+		else
 		{
 			System.out.println("invalid");
 		}
