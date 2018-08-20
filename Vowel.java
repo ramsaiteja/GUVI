@@ -13,7 +13,7 @@ class Vowel
 		}
 		else if(s=='b'||s=='c'|| s=='d'|| s=='f'|| s=='g'|| s=='h' ||s=='j' || s=='k'||s=='l'|| s=='m'|| s=='n'|| s=='p'|| s=='q'||s=='r'||s=='s'||s=='t'||s=='w'||s=='x'||s=='y'||s=='z')
 		{
-			System.out.println("Consonents");
+			System.out.println("Consonant");
 		}
 		else
 		{
